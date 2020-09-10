@@ -1,0 +1,10 @@
+div {
+    width: 20%;
+    height: 250px;
+    background-image: linear-gradient(blue, pink);
+    position: fixed;
+    top: 1%;
+    left: 40%;
+
+
+}

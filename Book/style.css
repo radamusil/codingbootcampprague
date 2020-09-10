@@ -1,0 +1,43 @@
+header {
+    background-color: #515151;
+    height: 20%;
+    text-align: center;
+}
+footer {
+    background-color: #212121;
+    color: #ffffff;
+    text-align: center;
+}
+button {
+    background-color: #f88e37;
+    color: #ffffff;
+}
+body {
+    background-color: #ffffff;
+}
+a  {
+    color: aliceblue;
+}
+img, main {
+    vertical-align: middle;
+}
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+main img {
+    vertical-align: middle;
+}
+ 
+main div {
+    display: inline-block;
+    max-width: 500px;
+    margin-left: 100px;
+    vertical-align: middle;
+}
+main {
+    margin: 100px 15%;
+}

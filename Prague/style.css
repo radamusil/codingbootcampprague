@@ -1,0 +1,42 @@
+h1 {
+    font-size: 240%;
+
+}
+
+h1, h2, p {
+    text-align: center;
+}
+ul {
+    font-weight: bold;
+}
+
+img {
+    align-items: center;
+}
+html {
+    background-color: #444444;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: white;
+    opacity: 0.5;
+}
+a {
+    color: rgb(255, 245, 253);
+    opacity: 0.5;
+}
+a:hover {
+    color: white;
+}
+button {
+    border-radius: 1.5%;
+    font-size: 200%;
+    border: white, solid;
+}
+
+.the-text {
+    color: blue;
+}
+ 
+.the-text.colorized {
+    color: pink;
+    font-size: 2rem;
+}
